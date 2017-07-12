@@ -1,0 +1,2 @@
+Options: 
+CMake: 3.8.2@/home/antalakas/apps/clion-172.3317.14/bin/cmake/bin/cmake
