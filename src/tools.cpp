@@ -70,13 +70,3 @@ void Tools::NormAngle(double *angle)
     */
     *angle = fmod(*angle, 2 * M_PI);
 }
-
-//void Tools::NormAngle(double *angle) {
-//    /**
-//    TODO:
-//      * Normalize angle here.
-//    */
-//    while (*angle > M_PI) *angle -= 2. * M_PI;
-//    while (*angle < -M_PI) *angle += 2. * M_PI;
-//}
-
